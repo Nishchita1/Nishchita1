@@ -1,4 +1,4 @@
-### Hey👋 I'm NISHCHITA KUMARI!!
+### Hey👋 I'm NISHCHITA KUMARI V
 Intrested in coding....!
 
 Here are some ideas to get you started:
