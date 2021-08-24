@@ -1,5 +1,5 @@
 ### Hey👋 I'm NISHCHITA KUMARI V
-Intrested in coding....!
+Passionate about Coding,Tech,Creativity,Finding solutions.
 
 Here are some ideas to get you started:
 
