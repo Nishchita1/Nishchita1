@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm NISHCHITA KUMARI V</h1>
-<h3 align="center">A girl passionate about coding,tech,creativity,finding solutions from India</h3>
+<h3 align="center">A girl passionate about coding, tech, creativity and exploring new things </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchita1&label=Profile%20views&color=0e75b6&style=flat" alt="nishchita1" /> </p>
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **nishchitakumariv1223@gmail.com**
 
-- ⚡ Fun fact **I think am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
