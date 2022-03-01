@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchita1&label=Profile%20views&color=0e75b6&style=flat" alt="nishchita1" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Final Year Project**
 
 - 🌱 I’m currently learning **Python,MlL,AI**
 
-- 👯 I’m looking to collaborate on **Web designing**
+- 👯 I’m looking to collaborate on **ML**
 
 - 🤝 I’m looking for help with **Android applications**
 
