@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Python,MlL,AI**
+- 🌱 I’m currently learning **Python,ML,AI**
 
 - 👯 I’m looking to collaborate on **ML**
 
-- 🤝 I’m looking for help with **Android applications**
+- 🤝 I’m looking for help with **ML & AI**
 
 - 👨‍💻 All of my projects are available at [:https://github.com/Nishchita1](:https://github.com/Nishchita1)
 
-- 💬 Ask me about **C,HTML,CSS,Java,Python related queries.**
+- 💬 Ask me about **C,HTML,CSS,Java,Python,ML,SQL related queries.**
 
 - 📫 How to reach me **nishchitakumariv1223@gmail.com**
 
