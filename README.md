@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchita1&label=Profile%20views&color=0e75b6&style=flat" alt="nishchita1" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently exploring on **C++,  Hackerrank and Leetcode**
 
-- 🌱 I’m currently learning **Python,ML,AI**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **ML**
+- 👯 I’m looking to collaborate on **Data Science and Data Analytics **
 
-- 🤝 I’m looking for help with **ML & AI**
+- 🤝 I’m looking for help with **Developer job role**
 
 - 👨‍💻 All of my projects are available at [:https://github.com/Nishchita1](:https://github.com/Nishchita1)
 
-- 💬 Ask me about **C,HTML,CSS,Java,Python,ML,SQL related queries.**
+- 💬 Ask me about **Python,C++,HTML,CSS,Machine Learning,SQL related queries.**
 
 - 📫 How to reach me **nishchitakumariv1223@gmail.com**
 
